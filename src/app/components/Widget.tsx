@@ -24,7 +24,7 @@ export default function Widget() {
               Lorem ipsum dolor sit, amet consectetur adipisicing elit.
               Delectus, voluptates.
             </p>
-            <div>
+            <div className='text-xxs'>
               <span>Convite</span>
               <span>Há 3 minutos</span>
             </div>
