@@ -5,7 +5,7 @@ import { Rocket, X, Check } from "lucide-react"
 export default function Widget() {
   return (
     <div className='w-[448px] rounded overflow-hidden'>
-      <div className='bg-zinc-200 dark:bg-zinc-800 py-4 px-6'>
+      <div className='bg-zinc-200 dark:bg-zinc-800 py-4 px-6 flex justify-between'>
         <span className='font-bold'>Notificações</span>
         <button className='text-violent-500 font-bold text-xs hover:text-violet-400'>
           MARCAR TODAS COMO VISTAS
